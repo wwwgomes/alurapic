@@ -1,3 +1,4 @@
 /*.js
+karma.*
 node_modules
 dist
